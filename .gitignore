@@ -1,0 +1,14 @@
+*.pt
+*.pth
+*.jpg
+*.jpeg
+*.png
+*.xlsx
+
+# Credentials
+config.json
+.env
+
+# Environment & Temp
+.venv/
+__pycache__/

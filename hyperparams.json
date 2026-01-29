@@ -1,0 +1,30 @@
+{
+    "training": {
+        "num_epochs": 25,
+        "patience": 5,
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "p_dropout": 0.3,
+        "model_type": "resnet18",
+        "use_weighted_loss": false,
+        "output_dir": "./outputs"
+    },
+    "scheduler": {
+        "scheduler_type": "step",
+        "step_size": 7,
+        "gamma": 0.1,
+        "scheduler_patience": 2,
+        "scheduler_factor": 0.5
+    },
+    "wandb": {
+        "use_wandb": false,
+        "wandb_project": "forensic-sex-classification",
+        "wandb_sweep": false,
+        "wandb_sweep_count": 30
+    },
+    "data": {
+        "view": "ap",
+        "input_data": "raw data/ap"
+    }
+}
+
