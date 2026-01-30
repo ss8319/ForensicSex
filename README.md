@@ -1,3 +1,19 @@
+<a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License">
+</a>
+
+<a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=for-the-badge" alt="CC BY 4.0">
+</a>
+
+<a href="https://github.com/ss8319/ForensicSex">
+    <img src="https://img.shields.io/badge/GitHub-ss8319%2FForensicSex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+Copyright © 2025 <a href="https://orcid.org/0009-0000-1701-7747">Shamus Sim Zi Yang <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, <a href="https://orcid.org/0000-0002-9207-0385">Tyrone Chen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, <a href="https://orcid.org/0000-0002-8432-9035">Choy Ker Woon <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
+
+Code in this repository is provided under a [MIT license](https://opensource.org/licenses/MIT). This documentation is provided under a [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 # Forensic Sex Identification
 
 Forensic Sex identification from radiographs with Convolutional Neural Networks.
